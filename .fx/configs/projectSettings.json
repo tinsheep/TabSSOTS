@@ -1,0 +1,26 @@
+{
+    "appName": "TabSSOTS",
+    "projectId": "d3e6422c-b38b-4fed-8ff6-b9564d3fa3a4",
+    "version": "2.1.0",
+    "isFromSample": false,
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Tab",
+            "TabSSO"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-frontend-hosting",
+            "fx-resource-identity",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-cicd",
+            "fx-resource-api-connector"
+        ]
+    },
+    "programmingLanguage": "typescript"
+}
